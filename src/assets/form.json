@@ -1,0 +1,1144 @@
+{
+    "questionario": [
+      {
+        "id": 1,
+        "nome": "3 Anos",
+        "idade": 3,
+        "respondido": false,
+        "questoes": [
+          {
+            "id": 1,
+            "descricao": "Ao responder as perguntas, compare o grau de coordenação de seu filho(a) com outras crianças da mesma idade. Sua criança...",
+            "respondido": false,
+            "respostas": [
+              {
+                "id": 1,
+                "descricao": "É capaz de jogar uma bola grande (tamanho de futebol) para outra criança ou pessoa.",
+                "respondida": false,
+                "opcoes": [
+                  {
+                    "id": 1,
+                    "score": 1,
+                    "descricao": "Não é nada parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 2,
+                    "score": 2,
+                    "descricao": "Parece um pouquinho com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 3,
+                    "score": 3,
+                    "descricao": "Moderadamente parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 4,
+                    "score": 4,
+                    "descricao": "Parece bastante com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 5,
+                    "score": 5,
+                    "descricao": "Extremamente parecido com sua criança",
+                    "escolhida": false
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "descricao": "Agarra uma bola grande (tamanho de futebol) com as duas mãos, quando jogada em sua direção, na frente do seu corpo, de uma distância de 1,5 m.",
+                "respondida": false,
+                "opcoes": [
+                  {
+                    "id": 1,
+                    "score": 1,
+                    "descricao": "Não é nada parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 2,
+                    "score": 2,
+                    "descricao": "Parece um pouquinho com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 3,
+                    "score": 3,
+                    "descricao": "Moderadamente parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 4,
+                    "score": 4,
+                    "descricao": "Parece bastante com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 5,
+                    "score": 5,
+                    "descricao": "Extremamente parecido com sua criança",
+                    "escolhida": false
+                  }
+                ]
+              },
+              {
+                "id": 3,
+                "descricao": "Chuta uma bola rolada em sua direção, de maneira apropriada para a idade (você chuta e ela chuta de volta).",
+                "respondida": false,
+                "opcoes": [
+                  {
+                    "id": 1,
+                    "score": 1,
+                    "descricao": "Não é nada parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 2,
+                    "score": 2,
+                    "descricao": "Parece um pouquinho com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 3,
+                    "score": 3,
+                    "descricao": "Moderadamente parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 4,
+                    "score": 4,
+                    "descricao": "Parece bastante com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 5,
+                    "score": 5,
+                    "descricao": "Extremamente parecido com sua criança",
+                    "escolhida": false
+                  }
+                ]
+              },
+              {
+                "id": 4,
+                "descricao": "Corre rapidamente e de maneira semelhante a outras crianças.",
+                "respondida": false,
+                "opcoes": [
+                  {
+                    "id": 1,
+                    "score": 1,
+                    "descricao": "Não é nada parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 2,
+                    "score": 2,
+                    "descricao": "Parece um pouquinho com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 3,
+                    "score": 3,
+                    "descricao": "Moderadamente parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 4,
+                    "score": 4,
+                    "descricao": "Parece bastante com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 5,
+                    "score": 5,
+                    "descricao": "Extremamente parecido com sua criança",
+                    "escolhida": false
+                  }
+                ]
+              },
+              {
+                "id": 5,
+                "descricao": "É capaz de se mover de um lugar para outro ou de uma posição para outra como as crianças de sua idade (por exemplo, sobe e desce escadas, sobe e desce da cama, entra e sai da banheira/bacia ou piscina infantil de forma independente e com facilidade, brinca de dança das cadeiras).",
+                "respondida": false,
+                "opcoes": [
+                  {
+                    "id": 1,
+                    "score": 1,
+                    "descricao": "Não é nada parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 2,
+                    "score": 2,
+                    "descricao": "Parece um pouquinho com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 3,
+                    "score": 3,
+                    "descricao": "Moderadamente parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 4,
+                    "score": 4,
+                    "descricao": "Parece bastante com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 5,
+                    "score": 5,
+                    "descricao": "Extremamente parecido com sua criança",
+                    "escolhida": false
+                  }
+                ]
+              },
+              {
+                "id": 6,
+                "descricao": "Bebe de um copo/caneca sem tampa sem derramar o conteúdo, de maneira apropriada para a idade.",
+                "respondida": false,
+                "opcoes": [
+                  {
+                    "id": 1,
+                    "score": 1,
+                    "descricao": "Não é nada parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 2,
+                    "score": 2,
+                    "descricao": "Parece um pouquinho com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 3,
+                    "score": 3,
+                    "descricao": "Moderadamente parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 4,
+                    "score": 4,
+                    "descricao": "Parece bastante com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 5,
+                    "score": 5,
+                    "descricao": "Extremamente parecido com sua criança",
+                    "escolhida": false
+                  }
+                ]
+              },
+              {
+                "id": 7,
+                "descricao": "É capaz de usar talheres para se alimentar (colher, garfo) e usa os talheres como outras crianças de sua idade (capaz de levar a comida para a boca).",
+                "respondida": false,
+                "opcoes": [
+                  {
+                    "id": 1,
+                    "score": 1,
+                    "descricao": "Não é nada parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 2,
+                    "score": 2,
+                    "descricao": "Parece um pouquinho com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 3,
+                    "score": 3,
+                    "descricao": "Moderadamente parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 4,
+                    "score": 4,
+                    "descricao": "Parece bastante com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 5,
+                    "score": 5,
+                    "descricao": "Extremamente parecido com sua criança",
+                    "escolhida": false
+                  }
+                ]
+              },
+              {
+                "id": 8,
+                "descricao": "Segura um lápis/caneta (lápis, lápis de cor, giz de cera) como outras crianças de sua idade e o utiliza para riscar/rabiscar.",
+                "respondida": false,
+                "opcoes": [
+                  {
+                    "id": 1,
+                    "score": 1,
+                    "descricao": "Não é nada parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 2,
+                    "score": 2,
+                    "descricao": "Parece um pouquinho com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 3,
+                    "score": 3,
+                    "descricao": "Moderadamente parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 4,
+                    "score": 4,
+                    "descricao": "Parece bastante com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 5,
+                    "score": 5,
+                    "descricao": "Extremamente parecido com sua criança",
+                    "escolhida": false
+                  }
+                ]
+              },
+              {
+                "id": 9,
+                "descricao": "É capaz de colocar uma moeda no cofre.",
+                "respondida": false,
+                "opcoes": [
+                  {
+                    "id": 1,
+                    "score": 1,
+                    "descricao": "Não é nada parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 2,
+                    "score": 2,
+                    "descricao": "Parece um pouquinho com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 3,
+                    "score": 3,
+                    "descricao": "Moderadamente parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 4,
+                    "score": 4,
+                    "descricao": "Parece bastante com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 5,
+                    "score": 5,
+                    "descricao": "Extremamente parecido com sua criança",
+                    "escolhida": false
+                  }
+                ]
+              },
+              {
+                "id": 10,
+                "descricao": "É capaz de pegar uma figura já recortada, ou adesivo, e colá-la num lugar específico em uma folha de papel.",
+                "respondida": false,
+                "opcoes": [
+                  {
+                    "id": 1,
+                    "score": 1,
+                    "descricao": "Não é nada parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 2,
+                    "score": 2,
+                    "descricao": "Parece um pouquinho com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 3,
+                    "score": 3,
+                    "descricao": "Moderadamente parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 4,
+                    "score": 4,
+                    "descricao": "Parece bastante com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 5,
+                    "score": 5,
+                    "descricao": "Extremamente parecido com sua criança",
+                    "escolhida": false
+                  }
+                ]
+              },
+              {
+                "id": 11,
+                "descricao": "Consegue fazer jogos de montagem de maneira apropriada para a idade (quebra-cabeças, Lego, construir uma torre ou imitar uma construção com blocos/toquinhos de madeira).",
+                "respondida": false,
+                "opcoes": [
+                  {
+                    "id": 1,
+                    "score": 1,
+                    "descricao": "Não é nada parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 2,
+                    "score": 2,
+                    "descricao": "Parece um pouquinho com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 3,
+                    "score": 3,
+                    "descricao": "Moderadamente parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 4,
+                    "score": 4,
+                    "descricao": "Parece bastante com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 5,
+                    "score": 5,
+                    "descricao": "Extremamente parecido com sua criança",
+                    "escolhida": false
+                  }
+                ]
+              },
+              {
+                "id": 12,
+                "descricao": "É capaz de imitar as posições do corpo de outra pessoa durante atividades de movimento ou esportivas (Macaco Disse, Siga o mestre, dança imitando alguém).",
+                "respondida": false,
+                "opcoes": [
+                  {
+                    "id": 1,
+                    "score": 1,
+                    "descricao": "Não é nada parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 2,
+                    "score": 2,
+                    "descricao": "Parece um pouquinho com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 3,
+                    "score": 3,
+                    "descricao": "Moderadamente parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 4,
+                    "score": 4,
+                    "descricao": "Parece bastante com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 5,
+                    "score": 5,
+                    "descricao": "Extremamente parecido com sua criança",
+                    "escolhida": false
+                  }
+                ]
+              },
+              {
+                "id": 13,
+                "descricao": "Usa os brinquedos do parquinho/playground de maneira apropriada para a idade (escala brinquedo, desce no escorregador).",
+                "respondida": false,
+                "opcoes": [
+                  {
+                    "id": 1,
+                    "score": 1,
+                    "descricao": "Não é nada parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 2,
+                    "score": 2,
+                    "descricao": "Parece um pouquinho com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 3,
+                    "score": 3,
+                    "descricao": "Moderadamente parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 4,
+                    "score": 4,
+                    "descricao": "Parece bastante com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 5,
+                    "score": 5,
+                    "descricao": "Extremamente parecido com sua criança",
+                    "escolhida": false
+                  }
+                ]
+              },
+              {
+                "id": 14,
+                "descricao": "Parece ter boa coordenação motora (não cai muito, não tropeça, nem tromba ou esbarra em pessoas e objetos).",
+                "respondida": false,
+                "opcoes": [
+                  {
+                    "id": 1,
+                    "score": 1,
+                    "descricao": "Não é nada parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 2,
+                    "score": 2,
+                    "descricao": "Parece um pouquinho com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 3,
+                    "score": 3,
+                    "descricao": "Moderadamente parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 4,
+                    "score": 4,
+                    "descricao": "Parece bastante com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 5,
+                    "score": 5,
+                    "descricao": "Extremamente parecido com sua criança",
+                    "escolhida": false
+                  }
+                ]
+              },
+              {
+                "id": 15,
+                "descricao": "Permanece sentada com boa postura quando precisa ficar sentada por um período de tempo (não se cansa facilmente nem senta desajeitada como se estivesse escorregando da cadeira).",
+                "respondida": false,
+                "opcoes": [
+                  {
+                    "id": 1,
+                    "score": 1,
+                    "descricao": "Não é nada parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 2,
+                    "score": 2,
+                    "descricao": "Parece um pouquinho com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 3,
+                    "score": 3,
+                    "descricao": "Moderadamente parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 4,
+                    "score": 4,
+                    "descricao": "Parece bastante com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 5,
+                    "score": 5,
+                    "descricao": "Extremamente parecido com sua criança",
+                    "escolhida": false
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "nome": "4 Anos",
+        "idade": 4,
+        "respondido": false,
+        "questoes": [
+          {
+            "id": 1,
+            "descricao": "Ao responder as perguntas, compare o grau de coordenação de seu filho(a) com outras crianças da mesma idade. Sua criança...",
+            "respondido": false,
+            "respostas": [
+              {
+                "id": 1,
+                "descricao": "É capaz de jogar uma bola grande (tamanho de futebol) para outra criança ou pessoa.",
+                "respondida": false,
+                "opcoes": [
+                  {
+                    "id": 1,
+                    "score": 1,
+                    "descricao": "Não é nada parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 2,
+                    "score": 2,
+                    "descricao": "Parece um pouquinho com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 3,
+                    "score": 3,
+                    "descricao": "Moderadamente parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 4,
+                    "score": 4,
+                    "descricao": "Parece bastante com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 5,
+                    "score": 5,
+                    "descricao": "Extremamente parecido com sua criança",
+                    "escolhida": false
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "descricao": "Agarra uma bola grande (tamanho de futebol) com as duas mãos, quando jogada em sua direção, na frente do seu corpo, de uma distância de 2 m.",
+                "respondida": false,
+                "opcoes": [
+                  {
+                    "id": 1,
+                    "score": 1,
+                    "descricao": "Não é nada parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 2,
+                    "score": 2,
+                    "descricao": "Parece um pouquinho com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 3,
+                    "score": 3,
+                    "descricao": "Moderadamente parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 4,
+                    "score": 4,
+                    "descricao": "Parece bastante com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 5,
+                    "score": 5,
+                    "descricao": "Extremamente parecido com sua criança",
+                    "escolhida": false
+                  }
+                ]
+              },
+              {
+                "id": 3,
+                "descricao": "Chuta uma bola rolada em sua direção, de maneira apropriada para a idade (você chuta e ela chuta de volta).",
+                "respondida": false,
+                "opcoes": [
+                  {
+                    "id": 1,
+                    "score": 1,
+                    "descricao": "Não é nada parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 2,
+                    "score": 2,
+                    "descricao": "Parece um pouquinho com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 3,
+                    "score": 3,
+                    "descricao": "Moderadamente parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 4,
+                    "score": 4,
+                    "descricao": "Parece bastante com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 5,
+                    "score": 5,
+                    "descricao": "Extremamente parecido com sua criança",
+                    "escolhida": false
+                  }
+                ]
+              },
+              {
+                "id": 4,
+                "descricao": "Corre rapidamente e de maneira semelhante a outras crianças.",
+                "respondida": false,
+                "opcoes": [
+                  {
+                    "id": 1,
+                    "score": 1,
+                    "descricao": "Não é nada parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 2,
+                    "score": 2,
+                    "descricao": "Parece um pouquinho com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 3,
+                    "score": 3,
+                    "descricao": "Moderadamente parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 4,
+                    "score": 4,
+                    "descricao": "Parece bastante com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 5,
+                    "score": 5,
+                    "descricao": "Extremamente parecido com sua criança",
+                    "escolhida": false
+                  }
+                ]
+              },
+              {
+                "id": 5,
+                "descricao": "É capaz de se mover de um lugar para outro ou de uma posição para outra como as crianças de sua idade (por exemplo, sobe e desce escadas, sobe e desce da cama, entra e sai da banheira/bacia ou piscina infantil de forma independente e com facilidade, brinca de dança das cadeiras).",
+                "respondida": false,
+                "opcoes": [
+                  {
+                    "id": 1,
+                    "score": 1,
+                    "descricao": "Não é nada parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 2,
+                    "score": 2,
+                    "descricao": "Parece um pouquinho com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 3,
+                    "score": 3,
+                    "descricao": "Moderadamente parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 4,
+                    "score": 4,
+                    "descricao": "Parece bastante com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 5,
+                    "score": 5,
+                    "descricao": "Extremamente parecido com sua criança",
+                    "escolhida": false
+                  }
+                ]
+              },
+              {
+                "id": 6,
+                "descricao": "Bebe de um copo/caneca sem tampa sem derramar o conteúdo, de maneira apropriada para a idade.",
+                "respondida": false,
+                "opcoes": [
+                  {
+                    "id": 1,
+                    "score": 1,
+                    "descricao": "Não é nada parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 2,
+                    "score": 2,
+                    "descricao": "Parece um pouquinho com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 3,
+                    "score": 3,
+                    "descricao": "Moderadamente parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 4,
+                    "score": 4,
+                    "descricao": "Parece bastante com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 5,
+                    "score": 5,
+                    "descricao": "Extremamente parecido com sua criança",
+                    "escolhida": false
+                  }
+                ]
+              },
+              {
+                "id": 7,
+                "descricao": "É capaz de usar talheres para se alimentar (colher, garfo) e usa os talheres como outras crianças de sua idade (capaz de levar a comida para a boca).",
+                "respondida": false,
+                "opcoes": [
+                  {
+                    "id": 1,
+                    "score": 1,
+                    "descricao": "Não é nada parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 2,
+                    "score": 2,
+                    "descricao": "Parece um pouquinho com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 3,
+                    "score": 3,
+                    "descricao": "Moderadamente parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 4,
+                    "score": 4,
+                    "descricao": "Parece bastante com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 5,
+                    "score": 5,
+                    "descricao": "Extremamente parecido com sua criança",
+                    "escolhida": false
+                  }
+                ]
+              },
+              {
+                "id": 8,
+                "descricao": "Segura um lápis/caneta (lápis, lápis de cor, giz de cera) como outras crianças de sua idade e o utiliza para copiar linhas e formas simples.",
+                "respondida": false,
+                "opcoes": [
+                  {
+                    "id": 1,
+                    "score": 1,
+                    "descricao": "Não é nada parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 2,
+                    "score": 2,
+                    "descricao": "Parece um pouquinho com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 3,
+                    "score": 3,
+                    "descricao": "Moderadamente parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 4,
+                    "score": 4,
+                    "descricao": "Parece bastante com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 5,
+                    "score": 5,
+                    "descricao": "Extremamente parecido com sua criança",
+                    "escolhida": false
+                  }
+                ]
+              },
+              {
+                "id": 9,
+                "descricao": "É capaz de colocar uma moeda no cofre.",
+                "respondida": false,
+                "opcoes": [
+                  {
+                    "id": 1,
+                    "score": 1,
+                    "descricao": "Não é nada parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 2,
+                    "score": 2,
+                    "descricao": "Parece um pouquinho com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 3,
+                    "score": 3,
+                    "descricao": "Moderadamente parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 4,
+                    "score": 4,
+                    "descricao": "Parece bastante com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 5,
+                    "score": 5,
+                    "descricao": "Extremamente parecido com sua criança",
+                    "escolhida": false
+                  }
+                ]
+              },
+              {
+                "id": 10,
+                "descricao": "É capaz de pegar uma figura, já recortada, ou adesivo e colá-la num lugar específico em uma folha de papel.",
+                "respondida": false,
+                "opcoes": [
+                  {
+                    "id": 1,
+                    "score": 1,
+                    "descricao": "Não é nada parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 2,
+                    "score": 2,
+                    "descricao": "Parece um pouquinho com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 3,
+                    "score": 3,
+                    "descricao": "Moderadamente parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 4,
+                    "score": 4,
+                    "descricao": "Parece bastante com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 5,
+                    "score": 5,
+                    "descricao": "Extremamente parecido com sua criança",
+                    "escolhida": false
+                  }
+                ]
+              },
+              {
+                "id": 11,
+                "descricao": "Consegue fazer jogos de montagem de maneira apropriada para a idade (quebra-cabeças, Lego, construir uma torre ou imitar uma construção com blocos/toquinhos de madeira).",
+                "respondida": false,
+                "opcoes": [
+                  {
+                    "id": 1,
+                    "score": 1,
+                    "descricao": "Não é nada parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 2,
+                    "score": 2,
+                    "descricao": "Parece um pouquinho com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 3,
+                    "score": 3,
+                    "descricao": "Moderadamente parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 4,
+                    "score": 4,
+                    "descricao": "Parece bastante com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 5,
+                    "score": 5,
+                    "descricao": "Extremamente parecido com sua criança",
+                    "escolhida": false
+                  }
+                ]
+              },
+              {
+                "id": 12,
+                "descricao": "É capaz de imitar as posições do corpo de outra pessoa durante atividades de movimento ou esportivas (Macaco Disse, Siga o mestre, dança imitando alguém).",
+                "respondida": false,
+                "opcoes": [
+                  {
+                    "id": 1,
+                    "score": 1,
+                    "descricao": "Não é nada parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 2,
+                    "score": 2,
+                    "descricao": "Parece um pouquinho com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 3,
+                    "score": 3,
+                    "descricao": "Moderadamente parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 4,
+                    "score": 4,
+                    "descricao": "Parece bastante com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 5,
+                    "score": 5,
+                    "descricao": "Extremamente parecido com sua criança",
+                    "escolhida": false
+                  }
+                ]
+              },
+              {
+                "id": 13,
+                "descricao": "Usa os brinquedos do parquinho/playground de maneira apropriada para a idade (escala brinquedo, desce no escorregador).",
+                "respondida": false,
+                "opcoes": [
+                  {
+                    "id": 1,
+                    "score": 1,
+                    "descricao": "Não é nada parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 2,
+                    "score": 2,
+                    "descricao": "Parece um pouquinho com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 3,
+                    "score": 3,
+                    "descricao": "Moderadamente parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 4,
+                    "score": 4,
+                    "descricao": "Parece bastante com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 5,
+                    "score": 5,
+                    "descricao": "Extremamente parecido com sua criança",
+                    "escolhida": false
+                  }
+                ]
+              },
+              {
+                "id": 14,
+                "descricao": "Parece ter boa coordenação motora (não cai muito, não tropeça, nem tromba ou esbarra em pessoas e objetos).",
+                "respondida": false,
+                "opcoes": [
+                  {
+                    "id": 1,
+                    "score": 1,
+                    "descricao": "Não é nada parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 2,
+                    "score": 2,
+                    "descricao": "Parece um pouquinho com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 3,
+                    "score": 3,
+                    "descricao": "Moderadamente parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 4,
+                    "score": 4,
+                    "descricao": "Parece bastante com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 5,
+                    "score": 5,
+                    "descricao": "Extremamente parecido com sua criança",
+                    "escolhida": false
+                  }
+                ]
+              },
+              {
+                "id": 15,
+                "descricao": "Permanece sentada com boa postura quando precisa ficar sentada por um período de tempo (não se cansa facilmente nem senta desajeitada como se estivesse escorregando da cadeira).",
+                "respondida": false,
+                "opcoes": [
+                  {
+                    "id": 1,
+                    "score": 1,
+                    "descricao": "Não é nada parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 2,
+                    "score": 2,
+                    "descricao": "Parece um pouquinho com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 3,
+                    "score": 3,
+                    "descricao": "Moderadamente parecido com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 4,
+                    "score": 4,
+                    "descricao": "Parece bastante com sua criança",
+                    "escolhida": false
+                  },
+                  {
+                    "id": 5,
+                    "score": 5,
+                    "descricao": "Extremamente parecido com sua criança",
+                    "escolhida": false
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

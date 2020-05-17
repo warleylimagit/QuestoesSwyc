@@ -1,0 +1,26 @@
+<ion-header>
+  <ion-toolbar mode="ios">
+    <ion-buttons slot="start">
+      <ion-button color="dark" (click)="goBack()">
+        <ion-icon name="md-arrow-round-back"></ion-icon>
+      </ion-button>
+    </ion-buttons>
+    <ion-title class="titleT">
+      Questões
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-list *ngFor="let question of quizList">
+    <ion-item color="none" lines="none">
+      <ion-label>{{question.nome}}</ion-label>
+      <ion-button *ngIf="!existeQuestionarioRespondido" fill='solid' (click)='abrirQuestionario(question.id)' size='small'>
+        <ion-label>Responder</ion-label>
+      </ion-button>
+      <ion-button *ngIf="existeQuestionarioRespondido" fill='solid' color="success" (click)='respostasQuestionario(question.id)' size='small'>
+        <ion-label>Visualizar</ion-label>
+      </ion-button>
+    </ion-item>
+  </ion-list>
+<ion-content>

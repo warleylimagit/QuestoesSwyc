@@ -1,0 +1,21 @@
+ion-toolbar {
+  --background: url(../../assets/tabs.jpg) !important;
+}
+
+:root {
+  --ion-safe-area-top: 20px;
+  --ion-safe-area-bottom: 22px;
+}
+ion-col > div {
+  border: solid 1px #ddd;
+  padding: 10px;
+  text-align: center;
+}
+#pergunta {
+  text-align: center;
+}
+//   ion-content{
+//     --background: url(../../assets/back.png)!important;
+//     --background-repeat: no-repeat;
+//     --background-size:100% 100%;
+//   }

@@ -1,0 +1,101 @@
+<ion-header>
+  <ion-toolbar mode="ios">
+    <ion-title text-center>
+      Bem Vindo
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+<ion-content padding>
+  <div *ngIf="exibeNovoForm; else divForm">
+    <ion-card color="light">
+      <ion-img src="../assets/background.png" mode="md">
+        <ion-card-header>
+        </ion-card-header>
+      </ion-img>
+      <ion-card-content>
+        <ion-card-title class="animated flash swing delay 5s" text-center="" mode="ios" color="black">
+          <ion-button mode="ios" color="primary" (click)="novoQuestionario()">
+            Novo Questionário
+          </ion-button>
+        </ion-card-title>
+      </ion-card-content>
+    </ion-card>
+  </div>
+  <ng-template #divForm>
+    <ion-item>
+      <ion-label class="ion-text-wrap" color="black">
+        Por favor, preencha este formulário para que possa responder ao questionário ;)
+      </ion-label>
+    </ion-item>
+    <form [formGroup]="formulario" (ngSubmit)="onSubmit(formulario.value)">
+      <ion-item>
+        <ion-label position="floating" color="black">Nome do responsável</ion-label>
+        <ion-input type="text" formControlName="nomeResponsavel"></ion-input>
+      </ion-item>
+      <div class="validation-errors">
+        <ng-container *ngFor="let validation of validacoes_erros.nomeResponsavel">
+          <div class="error-message"
+            *ngIf="formulario.get('nomeResponsavel').hasError(validation.type) && (formulario.get('nomeResponsavel').dirty || formulario.get('nomeResponsavel').touched)">
+            <ion-icon name="information-circle-outline"></ion-icon> {{ validation.message }}
+          </div>
+        </ng-container>
+      </div>
+      <ion-item>
+        <ion-label position="floating" color="black">Nome da criança</ion-label>
+        <ion-input type="text" formControlName="nomeCrianca"></ion-input>
+      </ion-item>
+      <div class="validation-errors">
+        <ng-container *ngFor="let validation of validacoes_erros.nomeCrianca">
+          <div class="error-message"
+            *ngIf="formulario.get('nomeCrianca').hasError(validation.type) && (formulario.get('nomeCrianca').dirty || formulario.get('nomeCrianca').touched)">
+            <ion-icon name="information-circle-outline"></ion-icon> {{ validation.message }}
+          </div>
+        </ng-container>
+      </div>
+      <ion-item>
+        <ion-label position="floating" color="black">Data de nascimento da criança</ion-label>
+        <ion-datetime formControlName="dataNascimento" displayFormat="DD/MM/YYYY"></ion-datetime>
+      </ion-item>
+      <div class="validation-errors">
+        <ng-container *ngFor="let validation of validacoes_erros.dataNascimento">
+          <div class="error-message"
+            *ngIf="formulario.get('dataNascimento').hasError(validation.type) && (formulario.get('dataNascimento').dirty || formulario.get('dataNascimento').touched)">
+            <ion-icon name="information-circle-outline"></ion-icon> {{ validation.message }}
+          </div>
+        </ng-container>
+      </div>
+      <ion-item>
+        <ion-label position="floating" color="black">Parentesco</ion-label>
+        <ion-select formControlName="parentesco" cancelText="Cancelar" okText="OK">
+          <ion-select-option *ngFor="let parente of parentescoArray" [value]="parente">{{parente}}
+          </ion-select-option>
+        </ion-select>
+      </ion-item>
+      <!-- <div class="validation-errors">
+        <ng-container *ngFor="let validation of validacoes_erros.parentesco">
+          <div class="error-message"
+            *ngIf="formulario.get('parentesco').hasError(validation.type) && (formulario.get('parentesco').dirty || formulario.get('parentesco').touched)">
+            <ion-icon name="information-circle-outline"></ion-icon> {{ validation.message }}
+          </div>
+        </ng-container>
+      </div> -->
+      <ion-item>
+        <ion-label position="floating" color="black">Nasceu prematura</ion-label>
+        <ion-select formControlName="prematuro" cancelText="Cancelar" okText="OK">
+          <ion-select-option>Sim</ion-select-option>
+          <ion-select-option>Não</ion-select-option>
+        </ion-select>
+      </ion-item>
+      <!-- <div class="validation-errors">
+        <ng-container *ngFor="let validation of validacoes_erros.prematuro">
+          <div class="error-message"
+            *ngIf="formulario.get('prematuro').hasError(validation.type) && (formulario.get('prematuro').dirty || formulario.get('prematuro').touched)">
+            <ion-icon name="information-circle-outline"></ion-icon> {{ validation.message }}
+          </div>
+        </ng-container>
+      </div> -->
+      <ion-button color="primary" class="submit-btn" expand="full" type="submit" *ngIf="formulario.valid">Salvar
+      </ion-button>
+    </form>
+  </ng-template>
+</ion-content>

@@ -1,0 +1,20 @@
+ion-card {
+  border-radius:5px 5px 0px 0px !important;
+       }
+
+
+   ion-toolbar{
+    --background: url(../../assets/tabs.jpg)!important;
+  }
+      
+  .error-message
+  {
+    color: red;
+    font-size: 14px;
+    margin-left: 10px;
+    margin-top: 10px;
+  }
+  
+  .submit-btn {
+    margin-top: 40px;
+  }
